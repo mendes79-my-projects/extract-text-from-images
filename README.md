@@ -47,7 +47,7 @@ Result / Resultado
 
 ### Contact
 
-[<img target="_blank" src="https://img.icons8.com/?size=80&id=67673&format=png" title="LinkedIn">](https://www.linkedin.com/in/lu%C3%ADs-mendes-de-oliveira-3bba2640/) [<img target="_blank" src="https://img.icons8.com/?size=80&id=BfmLaUCOh7CM&format=png" title="Github">](https://github.com/mendes79?tab=repositories) [<img target="_blank" src="https://img.icons8.com/?size=80&id=67668&format=png" title="Instagram">](https://www.instagram.com/mendes79bh/) [<img target="_blank" src="https://img.icons8.com/?size=65&id=6Fsj3rv2DCmG&format=png" title="X">](https://twitter.com/luismendes79)
+[<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/LinkedIn-64.png" title="LinkedIn">](https://www.linkedin.com/in/lu%C3%ADs-mendes-de-oliveira-3bba2640/) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-64.png" title="Github">](https://github.com/mendes79?tab=repositories) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png">](https://www.instagram.com/mendes79bh/) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-64.png" title="X">](https://twitter.com/luismendes79)
 
 ## Another Projects :
 
