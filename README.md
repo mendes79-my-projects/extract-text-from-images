@@ -36,18 +36,18 @@ As imagens podem ser jgp ou png, oriundas de várias fontes: print screen, digit
 Example image / imagem de exemplo
 
 <p float="left">
- <img src="/Images/example03.png" width="400" />
+ <img src="/Images/example03.png" width="480" />
 </p>
 
 Result / Resultado
 
 <p float="left">
- <img src="/Images/Result03 - nasa.png" width="400" />
+ <img src="/Images/Result03 - nasa.png" width="480" />
 </p>
 
 ### Contact
 
-[<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/LinkedIn-64.png" title="LinkedIn">](https://www.linkedin.com/in/lu%C3%ADs-mendes-de-oliveira-3bba2640/) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-64.png" title="Github">](https://github.com/mendes79?tab=repositories) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png">](https://www.instagram.com/mendes79bh/) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-64.png" title="X">](https://twitter.com/luismendes79)
+[<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/LinkedIn-48.png" title="LinkedIn">](https://www.linkedin.com/in/lu%C3%ADs-mendes-de-oliveira-3bba2640/) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-48.png" title="Github">](https://github.com/mendes79?tab=repositories) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-48.png">](https://www.instagram.com/mendes79bh/) [<img target="_blank" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-48.png" title="X">](https://twitter.com/luismendes79)
 
 ## Another Projects :
 
